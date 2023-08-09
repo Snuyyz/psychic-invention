@@ -7,7 +7,7 @@
  * @invite TeRQEPb
 */
 
-@import url('https://discordstyles.github.io/Slate/dist/Slate.css');
+@import url('https://raw.githubusercontent.com/ProPlayerTerraria/psychic-invention/main/wedoalittletrolling.css?token=GHSAT0AAAAAACFVNH7GZLLPJXOELE5KUHJQZGS55EA');
 
 @import url("https://discordstyles.github.io/Slate/Serverlist.css");
 @import url("https://discordstyles.github.io/Slate/ToolbarActions.css");
@@ -20,9 +20,9 @@
   --accent: 3, 102, 214;
   --link-colour: 48, 144, 255;
   /* Server List */
-  --server-icon-size: 35px;
-  --server-icon-spacing: 8px;
-  --server-container-padding: 10px;
+  --server-icon-size: 25px;
+  --server-icon-spacing: 4px;
+  --server-container-padding: 15px;
 }
 
 /**
