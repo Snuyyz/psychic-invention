@@ -20,16 +20,15 @@
   --spacing-double: calc(var(--spacing) * 2);
   --spacing-triple: calc(var(--spacing) * 3);
   --spacing-compact: 2px;
-  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-  	"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif;
-  --font-family-monospace: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
-  --font-size-xsm: 8px;
-  --font-size-sm: 9px;
-  --font-size: 10px;
-  --font-size-md: 11px;
-  --font-size-lg: 12px;
-  --font-size-xl: 13px;
-  --font-size-xxl: 14px;
+  --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "San Francisco", Arial, sans-serif;
+  --font-family-monospace: Menlo, Monaco, Consolas, "Ubuntu Mono", monospace;
+  --font-size-xsm: 7px;
+  --font-size-sm: 8px;
+  --font-size: 8px;
+  --font-size-md: 8px;
+  --font-size-lg: 8px;
+  --font-size-xl: 8px;
+  --font-size-xxl: 8px;
   --line-height-sm: 1;
   --line-height: 1.5;
   --chat-font-size-xsm: var(--font-size-xsm);
