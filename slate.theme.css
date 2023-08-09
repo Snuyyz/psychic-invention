@@ -40,7 +40,6 @@ html:root {
   --toolbar-text-muted:#c0c0c0;
   --toolbar-text-normal:#e6e6e6;
   --accent:75, 54, 124;
-  --font-family-sans-serif:'Uni-Sans Heavy', 'Uni-Sans', sans-serif;
 }
 
 html.theme-dark,
