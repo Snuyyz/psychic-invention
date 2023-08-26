@@ -6022,8 +6022,20 @@
  
  BLNK:0 ""
  BLNK_DEF:0 ""
+### SPECIFIC CTs for my needs ###
 
+ GNDJAP:0 "Kwangtung Administrative Political Office"
+ GNDJAP_DEF:0 "the Guangdong Administrative Political Office"
+ GNDJAP_ADJ:0 "Guangdongese"
 
+ YUNJAP:0 "Un'nan shō gunji senryō-kyoku"
+ YUNJAP_DEF:0 "the Yuennan Military Occupational Authority"
+ YUNJAP_ADJ:0 "Yuennanese"
+
+ KWCJAP:0 "Kweichow Hsingcheng Chengchih Pankungshih"
+ KWCJAP_DEF:0 "the Guizhou Administrative Political Office"
+ KWCJAP_ADJ:0 "Guizhouese"
+ 
 ### "CIVIL WAR" CTs ###
 
  ANARCO1:0 "$NONIDEOLOGYADJ$ Black Army"
