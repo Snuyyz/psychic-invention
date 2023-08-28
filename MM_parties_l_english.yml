@@ -9389,8 +9389,8 @@ l_english:
  
  HGM_theocratic_party:0 "NSDAP (Himmlerite)
  HGM_theocratic_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Himmlerite)
- HGM_national_socialism_party:0 "NSDAP (SS)"
- HGM_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Schutzstaffel)"
+ HGM_national_socialism_party:0 "NSDAP (Deutsches SS)"
+ HGM_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Deutsches-Schutzstaffeln)"
 
  PVC_monarchism_party:0 "Bourbon"
  PVC_monarchism_party_long:0 "Maison de Bourbon"
