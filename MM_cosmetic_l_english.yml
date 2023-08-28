@@ -6024,17 +6024,77 @@
  BLNK_DEF:0 ""
 ### SPECIFIC CTs for my needs ###
 
- GNDJAP:0 "Kwangtung Administrative Political Office"
+ GNDJAP:0 "Kwangtung Hsingcheng Chengchih Pankungshih"
  GNDJAP_DEF:0 "the Guangdong Administrative Political Office"
- GNDJAP_ADJ:0 "Guangdongese"
 
  YUNJAP:0 "Un'nan shō gunji senryō-kyoku"
  YUNJAP_DEF:0 "the Yuennan Military Occupational Authority"
- YUNJAP_ADJ:0 "Yuennanese"
 
  KWCJAP:0 "Kweichow Hsingcheng Chengchih Pankungshih"
  KWCJAP_DEF:0 "the Guizhou Administrative Political Office"
- KWCJAP_ADJ:0 "Guizhouese"
+
+ SS_Ostland:0 "SS-Staat Ostland"
+ SS_Ostland_DEF:0 "das SS-Staat Ostland"
+ 
+ RK_SSOstland:0 "Reichskommissariat Ostland"
+ RK_SSOstland_DEF:0 "das Reichskommissariat Ostland"
+
+ SSDIVMSC:0 "29. Waffen-Grenadierdivision"
+ SSDIVMSC_DEF:0 "das 29. Waffen-Grenadier-Division der SS (russische Nr. 1)"
+
+ SSDIVUKR:0 "14. Waffen-Grenadierdivision"
+ SSDIVUKR_DEF:0 "das 14. Waffen-Grenadier-Division der SS (galizische Nr. 1)"
+
+ SSDIVOST:0 "15. Waffen-Grenadier-Division"
+ SSDIVOST_DEF:0 "das 15. Waffen-Grenadier-Division der SS (lettische Nr. 1)"
+
+ SSDIVOST2:0 "19. Waffen-Grenadier-Division"
+ SSDIVOST2_DEF:0 "das 19. Waffen-Grenadier-Division der SS (lettische Nr. 2)"
+
+ SSDIVOST3:0 "20. Waffen-Grenadier-Division"
+ SSDIVOST3_DEF:0 "das 20. Waffen-Grenadier-Division der SS (estnische Nr. 1)"
+
+ SSDIVMSC2:0 "30. Waffen-Grenadierdivision"
+ SSDIVMSC2_DEF:0 "das 30. Waffen-Grenadierdivision der SS (russische Nr. 2)"
+
+ ROADIVMSC:0 "600. (russ.) Infanterie-Divison"
+ ROADIVMSC_DEF:0 "das 600. russische Infanterie Divison"
+
+ ROADIVUPRISING:0 "1ya Pekhotnaya Diviziya ROA"
+ ROADIVUPRISING_DEF:0 "1ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
+
+ ROADIVMSC2:0 "650. (russ.) Infanterie-Divison"
+ ROADIVMSC2_DEF:0 "das 650. russische Infanterie Divison"
+
+ ROADIVUPRISING2:0 "2ya Pekhotnaya Diviziya ROA"
+ ROADIVUPRISING2_DEF:0 "2ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
+
+ ROADIVMSC3:0 "700. (russ.) Infanterie-Divison"
+ ROADIVMSC3_DEF:0 "das 700. russische Infanterie Divison"
+
+ ROADIVUPRISING3:0 "3ya Pekhotnaya Diviziya ROA"
+ ROADIVUPRISING3_DEF:0 "3ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
+
+ RUSLIBARMY:0 "Komitet osvobozhdeniya narodov Rossii"
+ RUSLIBARMY_DEF:0 "the Committee for the Liberation of the Peoples of Russia"
+
+ RUSPARTISANS:0 "Partizanskoe Dizhenie"
+ RUSPARTISANS_DEF:0 "the Partisan Movement"
+
+ RUSPARTISANS2:0 "Antifashistskaya obyedinennaya partizanskaya armiya"
+ RUSPARTISANS2_DEF:0 "the Anti Fascist United Partisan Army"
+
+ RUSPARTISANS3:0 "Sovetskaya Natsionalno-osvoboditelnaya Armiya"
+ RUSPARTISANS3_DEF:0 "the Soviet National-Liberation Army"
+
+ OSTBALTPARTISANS:0 "United Baltic Liberation Front"
+ OSTBALTPARTISANS_DEF:0 "the United Baltic Liberation Front"
+
+ OSTBELPARTISANS:0 "Narodno-osvoboditel'noye dvizheniye"
+ OSTBELPARTISANS_DEF:0 "the People's Liberation Movement"
+
+ UKRPARTISANS:0 "Natsional'no-osvoboditel'noye dvizheniye Ukrainy"
+ UKRPARTISANS_DEF:0 "the National Liberation Movement of Ukraine"
  
 ### "CIVIL WAR" CTs ###
 
