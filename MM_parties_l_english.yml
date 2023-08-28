@@ -1,4 +1,4 @@
-l_english: 
+﻿l_english: 
  ENG_anarchism_ideology_party:0 "Brittons"
  ENG_anarchism_ideology_party_long:0 "Brittonic Tribes"
  ENG_left_anarchism_party:0 "IWW"
@@ -3942,7 +3942,7 @@ l_english:
  MSC_national_socialism_party:0 "NSDAP"
  MSC_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei"
  MSC_fascism_party:0 "KIG-MR"
- MSC_fascism_party_long:0 "Komandovaniye Imperatorskoy gvardii - Moskovskiyy Region"
+ MSC_fascism_party_long:0 "Komandovaniye Imperatorskoy gvardii - Moskovskaya Region"
  
  MC2_neutrality_party:0 "RC"
  MC2_neutrality_party_long:0 "Roennes Clique"
@@ -3962,8 +3962,8 @@ l_english:
  MC2_stratocratic_monarchism_party_long:0 "Notfallpräventionsorganisation"
  MC2_fascism_party:0 "NSPR"
  MC2_fascism_party_long:0 "Naródnaja Sociialističeskája Pártija Rossíi"
- MC2_republican_fascism_party:0 "RONA"
- MC2_republican_fascism_party_long:0 "29. Waffen-Grenadier-Division der SS (russische Nr. 1)"
+ MC2_republican_fascism_party:0 "NSDAP-B"
+ MC2_republican_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei-Backe"
  MC2_democratic_party:0 "SNS"
  MC2_democratic_party_long:0 "Sovét Nacionál'nogo Sotrúdničestva"
  
@@ -9332,10 +9332,6 @@ l_english:
  SGM_republican_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Reformisten)"
  SGM_neutrality_party:0 "NSDAP (Reformisten)"
  SGM_neutrality_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Reformisten)"
- SGM_anocratic_republic:0 "Übergangsregierung"
- SGM_anocratic_republic_long:0 "Übergangsregierung für Liberalisierung und Reformierung"
- SGM_anocratic_monarchism:0 "Schmidts Kabinett"
- SGM_anocratic_monarchism_long:0 "Schmidts Kabinett der Minister"
  SGM_fascism_party:0 "NSDAP (Reaktionäre)"
  SGM_fascism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Reaktionäre)"
  SGM_national_socialism_party:0 "NSDAP (Reaktionäre)"
@@ -9389,8 +9385,8 @@ l_english:
  
  HGM_theocratic_party:0 "NSDAP (Himmlerite)
  HGM_theocratic_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Himmlerite)
- HGM_national_socialism_party:0 "NSDAP (Deutsches SS)"
- HGM_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Deutsches-Schutzstaffeln)"
+ HGM_national_socialism_party:0 "NSDAP (SS)"
+ HGM_national_socialism_party_long:0 "Nationalsozialistische Deutsche Arbeiterpartei (Schutzstaffel)"
 
  PVC_monarchism_party:0 "Bourbon"
  PVC_monarchism_party_long:0 "Maison de Bourbon"
