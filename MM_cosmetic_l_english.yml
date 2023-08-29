@@ -6042,35 +6042,41 @@
  SSDIVMSC:0 "29. Waffen-Grenadierdivision"
  SSDIVMSC_DEF:0 "das 29. Waffen-Grenadier-Division der SS (russische Nr. 1)"
 
+ SSDIVMSC3:0 "40. SS-Freiwilligen Panzergrenadier Division"
+ SSDIVMSC_DEF:0 "das 40. SS-Freiwilligen Panzergrenadier Division"
+
  SSDIVUKR:0 "14. Waffen-Grenadierdivision"
- SSDIVUKR_DEF:0 "das 14. Waffen-Grenadier-Division der SS (galizische Nr. 1)"
+ SSDIVUKR_DEF:0 "das 14. Waffen-Grenadierdivision der SS (galizische Nr. 1)"
 
- SSDIVOST:0 "15. Waffen-Grenadier-Division"
- SSDIVOST_DEF:0 "das 15. Waffen-Grenadier-Division der SS (lettische Nr. 1)"
+ SSDIVOST:0 "15. Waffen-Grenadierdivision"
+ SSDIVOST_DEF:0 "das 15. Waffen-Grenadierdivision der SS (lettische Nr. 1)"
 
- SSDIVOST2:0 "19. Waffen-Grenadier-Division"
- SSDIVOST2_DEF:0 "das 19. Waffen-Grenadier-Division der SS (lettische Nr. 2)"
+ SSDIVOST2:0 "19. Waffen-Grenadierdivision"
+ SSDIVOST2_DEF:0 "das 19. Waffen-Grenadierdivision der SS (lettische Nr. 2)"
 
- SSDIVOST3:0 "20. Waffen-Grenadier-Division"
- SSDIVOST3_DEF:0 "das 20. Waffen-Grenadier-Division der SS (estnische Nr. 1)"
+ SSDIVOST3:0 "20. Waffen-Grenadierdivision"
+ SSDIVOST3_DEF:0 "das 20. Waffen-Grenadierdivision der SS (estnische Nr. 1)"
+ 
+ SSDIVKC1:0 "41. Waffen-Grenadierdivision"
+ SSDIVKC1_DEF:0 "das 41. Waffen-Grenadier-Division der SS (georgisch Nr. 1)"
 
  SSDIVMSC2:0 "30. Waffen-Grenadierdivision"
  SSDIVMSC2_DEF:0 "das 30. Waffen-Grenadierdivision der SS (russische Nr. 2)"
 
  ROADIVMSC:0 "600. (russ.) Infanterie-Divison"
- ROADIVMSC_DEF:0 "das 600. russische Infanterie Divison"
+ ROADIVMSC_DEF:0 "das 600. russische Infanterie Division"
 
  ROADIVUPRISING:0 "1ya Pekhotnaya Diviziya ROA"
  ROADIVUPRISING_DEF:0 "1ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
 
  ROADIVMSC2:0 "650. (russ.) Infanterie-Divison"
- ROADIVMSC2_DEF:0 "das 650. russische Infanterie Divison"
+ ROADIVMSC2_DEF:0 "das 650. russische Infanterie Division"
 
  ROADIVUPRISING2:0 "2ya Pekhotnaya Diviziya ROA"
  ROADIVUPRISING2_DEF:0 "2ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
 
  ROADIVMSC3:0 "700. (russ.) Infanterie-Divison"
- ROADIVMSC3_DEF:0 "das 700. russische Infanterie Divison"
+ ROADIVMSC3_DEF:0 "das 700. russische Infanterie Division"
 
  ROADIVUPRISING3:0 "3ya Pekhotnaya Diviziya ROA"
  ROADIVUPRISING3_DEF:0 "3ya Pekhotnaya Diviziya Russkoy Osoboditelnoyy Armiyy"
@@ -6095,6 +6101,21 @@
 
  UKRPARTISANS:0 "Natsional'no-osvoboditel'noye dvizheniye Ukrainy"
  UKRPARTISANS_DEF:0 "the National Liberation Movement of Ukraine"
+
+ UIAOUN:0 "Ukrayinsʹka Povstansʹka Armiya"
+ UIAOUN_DEF:0 "the Ukrainian Insurgent Army"
+
+ UKRSOVPARTISANS:0 "Sovetskiy Narodno-osvoboditel'nyy front Ukrainy"
+ UKRSOVPARTISANS_DEF:0 "the Soviet People's Liberation Front of Ukraine"
+
+ HOLPARTISANS:0 "Nederlandse Binnenlandse Strijdkrachten"
+ HOLPARTISANS_DEF:0 "the Dutch Forces of Interior"
+
+ HOLPARTYCOM:0 "Communistische Partij Nederland"
+ HOLPARTYCOM_DEF:0 "the Communist Party of Netherlands"
+
+ HOLPARTYCONLIB:0 "Volkspartij voor Vrijheid en Democratie"
+ HOLPARTYCONLIB_DEF:0 "the People's Party for Freedom and Democracy"
  
 ### "CIVIL WAR" CTs ###
 
