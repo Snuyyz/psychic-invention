@@ -6116,6 +6116,22 @@
 
  HOLPARTYCONLIB:0 "Volkspartij voor Vrijheid en Democratie"
  HOLPARTYCONLIB_DEF:0 "the People's Party for Freedom and Democracy"
+
+### Cold War CTs ###
+
+ SYRSTUDENT:0 "Syrian Student Protests"
+ SYRINDARM3:0 "Government of National Liberation"
+ SYRINDARM:0 "Free Syrian Army"
+ SYRINDARM2:0 "Army for Independence of Syria"
+ SYRANTIBAATH:0 "Movement Against Nasser and Total National Independence"
+
+ SYRPROBAATH:0 "National Crisis Resolve Government of Syria"
+ SYRPROBAATH2:0 "19th Tank Brigade"
+ SYRPROBAATH3:0 "People's Miltia of Syria and Lebanon"
+ SYRPROBAATH4:0 "Damascus Police Force"
+ SYRPROBAATH5:0 "Armed Forces of Arab Republic of Syria"
+ SYRPRONASR6:0 "Arab Republic of Syria"
+ 
  
 ### "CIVIL WAR" CTs ###
 
