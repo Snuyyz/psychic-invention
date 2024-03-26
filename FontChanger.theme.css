@@ -1,0 +1,16 @@
+/**
+ * @name FontChanger
+ * @author Snuyyz
+ * @version 1.0.0
+ * @description A font changer.
+ * @source 
+*/
+
+@import url('https://discordstyles.github.io/SoftX/SoftX.css');
+
+/* Google Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100..900&display=swap");
+
+:root {
+  --font: "Noto Sans SC";
+}
